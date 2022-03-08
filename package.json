@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/dani-afi/Learning2.0/dani_web",
+  "homepage": "https://dani-afi.github.io/React-Web1",
   "name": "dani_web",
   "version": "0.1.0",
   "private": true,
@@ -14,9 +14,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
