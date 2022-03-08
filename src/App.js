@@ -3,7 +3,6 @@ import {
   Footer,
   Blog,
   Possibility,
-  Feature,
   Whatdani,
   Header,
   Features,
