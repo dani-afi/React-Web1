@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dani-afi/React-Web1%20/static/css/main.15de7435.css",
-    "main.js": "/dani-afi/React-Web1%20/static/js/main.4916d49f.js",
-    "static/media/ai.png": "/dani-afi/React-Web1%20/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/dani-afi/React-Web1%20/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/dani-afi/React-Web1%20/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/dani-afi/React-Web1%20/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/dani-afi/React-Web1%20/static/media/blog04.742c1357e7b6c11078e6.png",
-    "static/media/blog05.png": "/dani-afi/React-Web1%20/static/media/blog05.bfaa1c1e3851158e0e1f.png",
-    "static/media/blog02.png": "/dani-afi/React-Web1%20/static/media/blog02.ab0eb367561796e91532.png",
-    "static/media/people.png": "/dani-afi/React-Web1%20/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/dani-afi/React-Web1%20/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
-    "index.html": "/dani-afi/React-Web1%20/index.html",
-    "main.15de7435.css.map": "/dani-afi/React-Web1%20/static/css/main.15de7435.css.map",
-    "main.4916d49f.js.map": "/dani-afi/React-Web1%20/static/js/main.4916d49f.js.map"
+    "main.css": "/React-Web1/static/css/main.15de7435.css",
+    "main.js": "/React-Web1/static/js/main.93b7b964.js",
+    "static/media/ai.png": "/React-Web1/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/React-Web1/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/React-Web1/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/React-Web1/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/React-Web1/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/React-Web1/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/React-Web1/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/people.png": "/React-Web1/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/React-Web1/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
+    "index.html": "/React-Web1/index.html",
+    "main.15de7435.css.map": "/React-Web1/static/css/main.15de7435.css.map",
+    "main.93b7b964.js.map": "/React-Web1/static/js/main.93b7b964.js.map"
   },
   "entrypoints": [
     "static/css/main.15de7435.css",
-    "static/js/main.4916d49f.js"
+    "static/js/main.93b7b964.js"
   ]
 }
